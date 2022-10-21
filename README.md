@@ -1,1 +1,1 @@
-# diffusion_model_zoo
+# List of Diffusion models

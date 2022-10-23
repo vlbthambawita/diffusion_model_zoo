@@ -2,26 +2,10 @@
 
 ## 2022
 
-| Paper title | PDF | Tutorial links | PyTorch codes | Tensorflow codes | Other Implementations |
-|-------------|-----|----------------|---------------|------------------|-----------------------|
-|             |     |                |               |                  |                       |
-|             |     |                |               |                  |                       |
-|             |     |                |               |                  |                       |
-
 ## 2021
 
-| Paper title | PDF | Tutorial links | PyTorch codes | Tensorflow codes | Other Implementations |
-|-------------|-----|----------------|---------------|------------------|-----------------------|
-|             |     |                |               |                  |                       |
-|             |     |                |               |                  |                       |
-|             |     |                |               |                  |                       |
+## 2020
 
-## 2019
-
-| Paper title | PDF | Tutorial links | PyTorch codes | Tensorflow codes | Other Implementations |
-|-------------|-----|----------------|---------------|------------------|-----------------------|
-|             |     |                |               |                  |                       |
-|             |     |                |               |                  |                       |
-|             |     |                |               |                  |                       |
+[Denoising Diffusion Probabilistic Models](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
 
 
